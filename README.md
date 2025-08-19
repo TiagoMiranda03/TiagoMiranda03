@@ -35,6 +35,7 @@
 ## 📊 Estatísticas
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoMiranda03&&theme=tokyonight&rank_icon=none)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMiranda03&layout=compact&theme=tokyonight)
 
 ---
