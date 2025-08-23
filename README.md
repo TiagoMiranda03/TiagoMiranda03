@@ -26,8 +26,8 @@
 
 ## 🌟 Projetos em Destaque
 
-- [📱 Gestão de Eventos](https://github.com/teuUser/projeto-eventos) – App Android em **Kotlin** com **Firebase**  
-- [💇‍♀️ Salão Mónica Miranda](https://github.com/teuUser/salao-monicamiranda) – Web App em **Node.js** para agendamento de serviços  
+- [📱 Gestão de Eventos](https://github.com/TiagoMiranda03/projeto-eventos) – App Android em **Kotlin** com **Firebase**  
+- [💇‍♀️ Salão Mónica Miranda](https://github.com/TiagoMiranda03/salao-monicamiranda) – Web App em **Node.js** para agendamento de serviços  
 
 
 ---
